@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MessageControl
+comment1.params=type\ number
+comment1.target=MessageControl(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MessageControl\n
+numComments=2
